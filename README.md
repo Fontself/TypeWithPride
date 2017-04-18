@@ -13,7 +13,7 @@ On 31 March, 2017, Gilbert Baker the creator of the iconic Rainbow Flag sadly pa
 
 ### [Download the fonts](https://github.com/Fontself/TypeWithPride/releases/download/1.001/Gilbert_1.001_alpha.zip) · [How to install](/documentation)
 
-*Gilbert* is available today as preview beta version in the OpenType font format and will grow over the upcoming months into a font family with several weights, stylistic sets, ligatures and symbols.
+*Gilbert* is available today as preview alpha version in the OpenType font format and will grow over the upcoming months into a font family with several weights, stylistic sets, ligatures and symbols.
 
 *Gilbert Color* features colorful glyphs and is currently available in the OpenType-SVG color font format.
 
