@@ -1,0 +1,27 @@
+# This is the list of people who have contributed to this project,
+# and includes those not listed in AUTHORS.txt because they are not
+# copyright authors. For example, company employees may be listed
+# here because their company holds the copyright and is listed there.
+#
+# When adding J Random Contributor's name to this file, either J's
+# name or J's organization's name should be added to AUTHORS.txt
+#
+# Names should be added to this file as:
+# Name <email address>
+
+hello@typewithpride.com
+
+Ogilvy & Mather Design Team:
+Alfonso Marian - Chief Creative Officer
+Chris Rowson - Creative Director
+Bastien Baumann - Creative Director
+Rodrigo Moran - Creative Director
+Robyn Makinson - Designer and Font Designer
+Justin Au - Motion Designer
+Akiko Nakashima - Executive Producer
+Bill Berman - Group Director
+
+Fontself:
+Franz Hoffman - Co-founder
+Joël Galeran - Co-founder
+Mohamed Ghenania - Co-founder

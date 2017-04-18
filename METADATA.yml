@@ -1,0 +1,34 @@
+---
+unified font repository version: "0.2"
+unified font repository url: https://github.com/raphaelbastide/Unified-Font-Repository/
+typeface family:
+  name: Gilbert
+  tags:
+  - sans
+  - sans-serif
+  - color
+  - colorful
+  - chromatic
+  - headline
+  - poster
+  - magazine
+  - modern
+  - branding
+  - logo
+  - geometric
+  - German
+  - decorative
+  - Art Deco
+  - Tshirt
+  repository url: https://github.com/fontself/TypeWithPride
+  project url: http://www.typewithpride.com
+  project status: alpha
+  tools:
+  - Fontself Maker for Illustrator
+  - Adobe Illustrator
+  similar fonts:
+  - Relish Pro
+  - Windlesham Pro
+  sample text:
+  - en_us: The quick brown fox jumps over the lazy dog
+...
