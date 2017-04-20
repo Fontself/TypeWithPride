@@ -3,7 +3,7 @@
 On 31 March, 2017, Gilbert Baker the creator of the iconic Rainbow Flag sadly passed away. Mr. Baker was both an LGBTQ activist and artist, and was known for helping friends create banners for protests and marches. To honor the memory of Gilbert Baker, NewFest and NYC Pride partnered with Ogilvy & Mather and Fontself to create free fonts inspired by the design language of the iconic Rainbow Flag, the typeface was named *Gilbert* after Mr. Baker.
 
 - Learn more about Type With Pride at [typewithpride.com](https://www.typewithpride.com)
-- Learn more about the ongoing creative and technical process on the Fontself blog (coming soon!)
+- Learn more about the ongoing creative and technical process [on the Fontself blog](https://stories.fontself.com/type-with-pride-a-color-font-chronicle-bb61fda31566)
 
 ## Specimen
 
@@ -11,7 +11,7 @@ On 31 March, 2017, Gilbert Baker the creator of the iconic Rainbow Flag sadly pa
 
 ## Details
 
-### [Download the fonts](https://github.com/Fontself/TypeWithPride/releases/download/1.001/Gilbert_1.001_alpha.zip) · [How to install](/documentation)
+### [Download the fonts](https://github.com/Fontself/TypeWithPride/releases/download/1.001/Gilbert_1.001_alpha.zip) · [How to install](/documentation) · [Get the news](https://www.typewithpride.com/#get-the-news)
 
 *Gilbert* is available today as preview alpha version in the OpenType font format and will grow over the upcoming months into a font family with several weights, stylistic sets, ligatures and symbols.
 
@@ -26,7 +26,7 @@ On 31 March, 2017, Gilbert Baker the creator of the iconic Rainbow Flag sadly pa
 
 Thanks to support from the Type With Pride authors, NewFest, NYC Pride and Fontself, all Type With Pride artwork and the Gilbert font are released under the Creative Commons Attribution-ShareAlike 4.0 International License. Learn more about this license and usage rights at <http://creativecommons.org/licenses/by-sa/4.0/>
 
-- Learn more about NewFest at [newfest.org](http://www.newfest.org)
+- Learn more about NewFest at [newfest.org](http://newfest.org)
 - Learn more about NYC Pride at [nycpride.org](https://www.nycpride.org)
 - Learn more about Fontself at [fontself.com](https://www.fontself.com)
 
