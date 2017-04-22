@@ -1,18 +1,16 @@
 # Gilbert usage guide
 
-This document demonstrates how to use the Gilbert fonts.
+This font family is part of an ongoing project, Type With Pride. Get the latest versions of the free font files at typewithpride.com
 
-*Gilbert* can be installed and used in many apps and operating systems, like any other standard OpenType font file.
+*Gilbert* can be installed and used in most apps and operating systems, like any other standard OpenType font file.
 
 *Gilbert Color* can also be installed on both Mac & PC but it will be displayed only in a few apps since it relies on a new color font format, [OpenType-SVG](https://www.microsoft.com/typography/otspec/svg.htm). Color fonts are currently supported by [a couple browsers](http://stateofwebtype.com/#OpenType-SVG) (Firefox and Microsoft Edge) and [more recently](https://blogs.adobe.com/creativecloud/photoshop-cc-adds-support-for-opentype%E2%88%92svg-fonts-an-in-depth-look/) at least by one creative app (Photoshop CC 2017).
 
-The good news is you can actually provide fallback versions of a font within the same font file, so a color font may include the standard "black" font to ensure anyone can see the actual shape of the typeface, whatever color font support they have. 
+Yet no operating system already support color fonts.
 
-The bad news is that Gilbert Color does NOT YET include such fallback solution, so when you install Gilbert Color on your computer, it will simply show up blank :( 
+The good news is you can include a fallback version within the same font file: a color font file may then also include a standard "black" font to ensure anyone can see the shapes of the typeface, whatever color font support they have.
 
-![Gilbert Color on MacOS](gilbert-preview.png)
-
-Don't panic, if you see an empty font in your Font Book or Font Manager, the color font data is still around. You will just have to load Photoshop CC 2017 to actually see the font:
+Gilbert Color includes such a fallback solution, so when you install Gilbert Color on your computer, it will simply show up as a black font. Don't panic, the color font data is still around: just load Photoshop CC 2017 and you will see the color font:
 
 ![Gilbert Color font in Photoshop](gilbert-in-photoshop.png)
 
