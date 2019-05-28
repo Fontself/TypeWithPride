@@ -5,4 +5,8 @@
 # Names should be added to this file as: 
 # Name or Organization <email address> 
 
+Latin Design:
 Ogilvy & Mather
+
+Katakana Design:
+Kazunori Shiina, Hayato Yamasaki
